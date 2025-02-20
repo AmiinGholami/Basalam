@@ -117,7 +117,7 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-## ⭐ Support Us!
+## ⭐ Support US!
 
 If you find this project helpful, **please consider giving it a star ⭐ on GitHub!**
 
